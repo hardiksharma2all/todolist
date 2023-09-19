@@ -1,16 +1,13 @@
-# todolist
+# To-Do List
 
-A new Flutter project.
+To-Do List a new Flutter project with MVP Features using Hydrated Bloc.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Here's a video of the demo of **To-Do List App**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/hardiksharma2all/todolist/assets/47247599/8669b938-652b-4ad8-950b-f78a9a031185
+
